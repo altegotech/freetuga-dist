@@ -1,10 +1,10 @@
 {
     "channels": {
         "dev": {
-            "version": "0.0.2",
-            "versionCode": 2,
-            "url": "https://github.com/altegotech/freetuga-dist/releases/download/dev/freetugaone-0.0.2.apk",
-            "sha256": "1e70790eb6efa3ecf7ef572ccca04c696af7a4a3b5b51eabde3cfab481531951"
+            "version": "0.0.3",
+            "versionCode": 3,
+            "url": "https://github.com/altegotech/freetuga-dist/releases/download/dev/freetugaone-dev.apk",
+            "sha256": "76370b1306f7df022d587eda0b6ca78dc13045dbd83e5822dd7e8276f5241138"
         }
     }
 }
